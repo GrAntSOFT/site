@@ -1,0 +1,12 @@
+{
+"companyName": "GrAntSOFT",
+"productName": "Worment2",
+"dataUrl": "Worment2WebDebug.data.unityweb",
+"asmCodeUrl": "Worment2WebDebug.asm.code.unityweb",
+"asmMemoryUrl": "Worment2WebDebug.asm.memory.unityweb",
+"asmFrameworkUrl": "Worment2WebDebug.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
