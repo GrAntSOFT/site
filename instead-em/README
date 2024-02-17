@@ -1,0 +1,11 @@
+Run on your computer:
+
+1. upload files in directory
+2. upload your game in zip format
+3. run web server, for example: python3 -m http.server 8000
+4. url to you game is: http://127.0.0.1:8000/instead-em.html?your_game.zip
+
+Some hosting:
+
+Just upload files and game in zip format to some public directory.
+Open game: http://some.site/publicdir/instead-em.html?your_game.zip
